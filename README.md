@@ -1,4 +1,3 @@
-![I am a Junior Front-end developer. ](https://avatars.githubusercontent.com/u/83539433?s=400&u=3693870513cc384b5d2139c7119f4c90b1753191&v=4)
 
 ## :mailbox: Reach me out
 
@@ -8,14 +7,14 @@
 ## :eyes: Current overview
 
 <div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://avatars.githubusercontent.com/u/83539433?s=400&u=3693870513cc384b5d2139c7119f4c90b1753191&v=4" width="200" alt="Mir Hussain's Dev Card"/></a>
+<a href="https://app.daily.dev/mir"><img align="right" src="https://avatars.githubusercontent.com/u/83539433?s=400&u=3693870513cc384b5d2139c7119f4c90b1753191&v=4" width="200" </a>
 </div>
 
 ### 🔭 I’m working - In Futurionic Pvt Ltd. 
 ### 🌱 I’m exploring - Advance motion graphics for web. 
 ### 👯 I’m looking - To collaborate on open source projects. 
 ### 🤔 I’m trying - To help people learn web development. 
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+### ⚡ Fun fact - I love to make people motivated and I can speak 3 languages.
 
 
 <br />
